@@ -1,0 +1,22 @@
+h1{
+    color: cyan;
+    text-shadow: black 1px 1px;
+
+}
+#jv{
+    font-family: 'Play', sans-serif;
+    margin: 0px;
+    margin-left: 0px;
+    font-size: 60px;
+    color: darkturquoise;
+    text-shadow: black 2px 2px;
+}
+h2{
+    color: darkturquoise;
+    text-shadow: black 2px 1px;
+    font-size: 50px;
+    margin-right: 10px;
+    margin-top: 0px;
+    margin-left: 30px;
+    margin-bottom: 0px;
+}

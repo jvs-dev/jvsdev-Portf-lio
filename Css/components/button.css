@@ -1,0 +1,49 @@
+.button1{
+    animation: gradient 10s ease infinite;
+    color: black;
+    text-shadow: black 0px 0px;
+    background: linear-gradient(-45deg, paleturquoise, cyan, blue, blueviolet) no-repeat;
+    background-size: 300% 300%;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    box-shadow: black 3px 4px;
+    transition: transform 100ms linear;
+    transition-delay: 0.1s;
+}
+@keyframes gradient {
+    0%{
+        background-position: 0% 50%;
+    }
+    50%{
+        background-position: 100% 50%;
+    }
+    100%{
+        background-position: 0% 50%;
+    }
+}
+.button1:hover {
+    transform: scale(1.15);
+}
+#button2{
+    position: absolute;
+    display: block;
+    color: black;
+    margin-top: 430px;
+    margin-left: 220px;
+    box-shadow: black 0px 0px;
+    border: solid 2px;
+    border-color: black;
+}
+#button3{
+    position: absolute;
+    display: block;
+    color: black;
+    margin-top: 430px;
+    margin-left: 520px;
+    text-shadow: black 0px 0px;
+    box-shadow: black 0px 0px;
+    border: solid 2px;
+    border-color: black;
+}
