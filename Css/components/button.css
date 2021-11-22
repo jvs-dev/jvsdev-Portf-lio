@@ -27,6 +27,7 @@
     transform: scale(1.15);
 }
 #button2{
+    animation: none;
     position: absolute;
     display: block;
     color: black;
@@ -35,8 +36,10 @@
     box-shadow: black 0px 0px;
     border: solid 2px;
     border-color: black;
+    background: linear-gradient(-45deg, darkcyan, cyan) no-repeat;
 }
 #button3{
+    animation: none;
     position: absolute;
     display: block;
     color: black;
@@ -46,4 +49,5 @@
     box-shadow: black 0px 0px;
     border: solid 2px;
     border-color: black;
+    background: linear-gradient(-45deg, darkcyan, cyan) no-repeat;
 }
