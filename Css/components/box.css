@@ -1,0 +1,9 @@
+#box{
+    margin-top: 200px;
+    margin-left: 150px;
+    background-color: rgb(36, 36, 36);
+    padding: 30px;
+    box-shadow: 5px 5px 2px black;
+    display: block;
+    text-align: center;
+}

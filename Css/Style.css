@@ -43,20 +43,13 @@ a{
     transform: scale(1.15);
 }
 
-#organize{
+#background{
     display: flex;
     margin-top: 0px;
     background-image: url(https://i.pinimg.com/originals/90/d3/69/90d369307d0a2cac8dd2cea650f4f797.jpg);
     background-size: 100% 100%;
     padding-bottom: 350px;
     }
-#box{
-    margin-top: 200px;
-    margin-left: 150px;
-    background-color: rgb(36, 36, 36);
-    padding: 30px;
-    box-shadow: black 0px 0px 0px;
-    display: block;
-}
+
 
 
