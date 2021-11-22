@@ -46,10 +46,15 @@ a{
 #background{
     display: flex;
     margin-top: 0px;
-    background-image: url(https://i.pinimg.com/originals/90/d3/69/90d369307d0a2cac8dd2cea650f4f797.jpg);
+    
     background-size: 100% 100%;
     padding-bottom: 350px;
     }
-
+#backgroundvd
+{
+    display: flex;
+    height: 100%;
+    width: 100%;
+}
 
 
