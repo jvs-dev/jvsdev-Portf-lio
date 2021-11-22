@@ -2,7 +2,7 @@
     animation: gradient 10s ease infinite;
     color: black;
     text-shadow: black 0px 0px;
-    background: linear-gradient(-45deg, paleturquoise, cyan, blue, navy) no-repeat;
+    background: linear-gradient(-45deg, cyan, deepskyblue, royalblue, blue, navy) no-repeat;
     background-size: 300% 300%;
     padding-right: 20px;
     padding-left: 20px;
