@@ -42,19 +42,3 @@ a{
 .nav1:hover {
     transform: scale(1.15);
 }
-
-#background{
-    display: flex;
-    margin-top: 0px;
-    
-    background-size: 100% 100%;
-    padding-bottom: 350px;
-    }
-#backgroundvd
-{
-    display: flex;
-    height: 100%;
-    width: 100%;
-}
-
-
