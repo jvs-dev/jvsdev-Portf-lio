@@ -1,4 +1,4 @@
-# PROJETO DE PORTIFOLIO DO CURSO DE @marcobrunodev
+# PROJETO DE PORTFOLIO DO CURSO DE @marcobrunodev
 
 ## Desenvolvido usando as tecnologias: 
 - HTML
