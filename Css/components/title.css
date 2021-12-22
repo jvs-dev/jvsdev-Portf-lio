@@ -1,7 +1,6 @@
 h1{
-    color: cyan;
     text-shadow: black 1px 1px;
-
+    font-family: 'Play', sans-serif;
 }
 #jv{
     font-family: 'Play', sans-serif;
@@ -19,4 +18,8 @@ h2{
     margin-top: 0px;
     margin-left: 0px;
     margin-bottom: 0px;
+}
+#JVsalvi
+{
+    color: cyan;
 }

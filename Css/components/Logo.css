@@ -1,0 +1,7 @@
+#imgheader{
+    margin-left: 15px;
+    width:  70px;
+    height: 70px;
+    border: solid black 2px;
+    cursor: pointer;
+}

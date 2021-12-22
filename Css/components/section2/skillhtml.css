@@ -1,0 +1,54 @@
+.Skillsorg
+{
+    margin-left: 90px;
+    
+}
+.skills
+{
+    color: white;
+    font-family: 'Play', sans-serif;
+    display: block;
+    
+    
+}
+.imgskill
+{
+    position: absolute;
+   
+    margin-top: 5px;
+}
+.bar
+{   
+    margin-left: 0px;
+    padding-bottom: 0px;
+    padding-right: 200px;
+    border: solid 2px;
+    border-color: black;
+    
+}
+.html
+{
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 100px;
+    
+}
+.preencimento
+{
+    
+    padding-bottom: 20px;
+    padding-right: 100px;
+    background: linear-gradient(-45deg, royalblue, royalblue, royalblue, deepskyblue, royalblue, royalblue, royalblue) no-repeat;
+    animation: gradient2 5s ease infinite;
+    background-size: 400% 400%;
+}
+@keyframes gradient2 {
+    0%{
+        background-position: 100%;
+    }
+
+    
+    100%{
+        background-position: 0%;
+    }
+}
