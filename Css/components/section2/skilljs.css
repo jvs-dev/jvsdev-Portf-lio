@@ -1,10 +1,15 @@
 .js
 {
     position: absolute;
-    margin-top: 170px;
+    margin-top: 240px;
     margin-left: 0px;
+    
 }
 #jsim
 {
     margin-right: 10px;
+}
+#jsbar
+{
+    width: 5%;
 }

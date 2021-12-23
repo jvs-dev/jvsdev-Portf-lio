@@ -1,7 +1,11 @@
 .html
 {
-    position: absolute;
-    margin-top: 200px;
-    margin-left: 100px;
+   position: absolute;
+    margin-top: 0px;
+    margin-left: 0px;
     
+}
+#htmlbar
+{
+    width: 30%;
 }

@@ -28,7 +28,7 @@
 {   
     margin-left: 20px;
     padding-bottom: 0px;
-    padding-right: 200px;
+    width: 300px;
     border: solid 2px;
     border-color: black;
     background-color: white;
@@ -38,7 +38,6 @@
 {
     
     padding-bottom: 20px;
-    padding-right: 100px;
     background: linear-gradient(-45deg, royalblue, royalblue, royalblue, dodgerblue, royalblue, royalblue, royalblue) no-repeat;
     animation: gradient2 5s ease infinite;
     background-size: 500% 500%;
@@ -52,4 +51,10 @@
     100%{
         background-position: 0%;
     }
+}
+.AllSkills
+{
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 150px;
 }

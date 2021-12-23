@@ -1,7 +1,10 @@
 .css
 {
     position: absolute;
-    margin-top: 50px;
+    margin-top: 120px;
     margin-left: 0px;
-    
+}
+#cssbar
+{
+    width: 20%;
 }
