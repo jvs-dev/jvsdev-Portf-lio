@@ -17,5 +17,13 @@
     border-bottom: solid 10px;
     border-color: black;
     background-color: mediumturquoise;
-    padding-bottom: 50%;
+    height: 750px;
+}
+#section3
+{
+    border-bottom: solid 10px;
+    border-color: darkturquoise;
+    background-color: black;
+    height: 600px;
+    justify-content: center;
 }
